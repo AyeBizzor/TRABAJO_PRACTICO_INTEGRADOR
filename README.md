@@ -1,6 +1,13 @@
 # TRABAJO_PRACTICO_INTEGRADOR
 TRABAJO PRÁCTICO INTEGRADOR
 
+Integrantes del grupo:
+
+Nathalie Janet Pereyra
+
+Bizzocchi Rios Ayelén
+
+
 Temas:
 
 ● Git/Github
